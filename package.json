@@ -1,6 +1,6 @@
 {
   "name": "@ev-fns/mongo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": "git@github.com:eliseuvideira/ev-fns__mongo.git",
