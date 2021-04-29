@@ -1,7 +1,7 @@
 export interface ConnectProps {
   protocol?: "mongodb" | "mongodb+srv";
-  username?: string;
-  password?: string;
+  user?: string;
+  pass?: string;
   server: string;
   port?: number;
   database: string;
