@@ -42,5 +42,7 @@
       "prettier --check"
     ]
   },
-  "keywords": []
+  "keywords": [
+    "mongo"
+  ]
 }
