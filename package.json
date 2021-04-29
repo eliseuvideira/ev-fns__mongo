@@ -1,9 +1,9 @@
 {
-  "name": "npm-lib-starter",
+  "name": "@ev-fns/mongo",
   "version": "0.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "git@github.com:eliseuvideira/npm-lib-starter.git",
+  "repository": "git@github.com:eliseuvideira/ev-fns__mongo.git",
   "author": "Eliseu Videira <eliseuvideira1@gmail.com>",
   "license": "MIT",
   "engines": {
